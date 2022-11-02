@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Carme', sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+:root {
+    --clr--light: #F2FCBE;
+    --clr--dark: #c6df25;
+    --clr--accent: #C3BEFF;
+}
